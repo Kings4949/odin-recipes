@@ -1,0 +1,37 @@
+body{
+    font-family:"Times New Roman", Helvetica, sans-serif;
+    margin-left:20px;
+    background:rgb(236, 231, 231);
+}
+
+img{
+    height:auto;
+    width:600px;
+}
+
+.text{
+    
+    font-size:20px;
+}
+h2{
+    margin-bottom: -4px;
+}
+
+a{
+    font-size:25px;
+   color:#000000;
+  
+}
+
+
+.main-link{
+    line-height:30px;
+    
+    
+}
+
+.ingredients-list{
+    font-size: 20px;
+}
+
+
